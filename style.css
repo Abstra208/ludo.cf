@@ -1,0 +1,45 @@
+/*Navigation*/
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+nav li{
+    list-style: none;
+    font-size: 1.5em;
+}
+nav li h1{
+    cursor:pointer;
+}
+nav li h1:hover{
+    color: blue;
+}
+
+/*Page*/
+#page{
+    display: flex;
+    justify-content: center;
+}
+
+/*Accueil*/
+.home #projet{
+    display: none;
+}
+.home #moi{
+    display: none;
+}
+
+/*Mes Projets*/
+.projet #home{
+    display: none;
+}
+.projet #moi{
+    display: none;
+}
+
+/*À Propos de Moi*/
+.moi #home{
+    display: none;
+}
+.moi #projet{
+    display: none;
+}
