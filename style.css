@@ -22,6 +22,7 @@ nav li h1:hover{
 #page article{
     height: 250px;
     width: 100%;
+    background-color: darkgreen;
 }
 
 /*Accueil*/
