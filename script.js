@@ -1,18 +1,5 @@
-home.onclick = () => document.page.class="home";
-moi.onclick = () => document.page.class="moi";
-projet.onclick = () => document.page.class="projet";
 
 
-
-
-/*
-function Home(){
-    document.getElementById("page").class="home";
-}
-function Projet(){
-    document.getElementById("page").class="projet";
-}
-function Moi(){
-    document.getElementById("page").class="moi";
-}
-*/
+home.onclick = () => document.getElementById("page").class="home";
+moi.onclick = () => document.getElementById("page").class="moi";
+projet.onclick = () => document.getElementById("page").class="projet";
