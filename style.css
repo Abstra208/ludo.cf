@@ -8,6 +8,8 @@ nav a{
     justify-content: center;
     align-items: center;
     padding: 30px;
+    width: 100%;
+    left: 0;
 }
 #column{
     display: flex;
