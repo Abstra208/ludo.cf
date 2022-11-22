@@ -34,7 +34,7 @@ nav:has(a:hover) > a:not(:hover){
 #page article{
     height: 550px;
     width: auto;
-    background-image: url("font_articule.png") ;
+    background-image: url("test.png") ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
