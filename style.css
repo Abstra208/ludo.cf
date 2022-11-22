@@ -19,6 +19,10 @@ nav li h1:hover{
     display: flex;
     justify-content: center;
 }
+#page article{
+    height: 250px;
+    background-color: coral;
+}
 
 /*Accueil*/
 .home #projet{
