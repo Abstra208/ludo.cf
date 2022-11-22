@@ -1,5 +1,5 @@
-home.onclick = () => document.getElementById("page").class="home";
-moi.onclick = () => document.getElementById("page").class="moi";
+home.onclick = () => document.page.class="home";
+moi.onclick = () => document.page.class="moi";
 
 
 
