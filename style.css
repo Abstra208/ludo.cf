@@ -18,6 +18,8 @@ nav a{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 #row a{
     margin-left: 50px;
