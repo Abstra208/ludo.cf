@@ -21,7 +21,7 @@ nav li h1:hover{
 #page article{
     height: 550px;
     width: auto;
-    background-color: darkgreen;
+    background-image: url("font_articule.png");
 }
 #page article h1{
     display: flex;
