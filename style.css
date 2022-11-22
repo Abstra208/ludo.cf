@@ -6,7 +6,7 @@ nav{
     align-items: center;
     padding: 30px;
 }
-nav li h1{
+nav li a{
     cursor: pointer;
     margin-left: 20px;
     font-family: arial, sans-serif;
