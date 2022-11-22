@@ -1,14 +1,17 @@
 /*Navigation*/
 nav{
+    color: #000;
     display: flex;
-    justify-content: space-evenly;
-}
-nav li{
-    list-style: none;
-    font-size: 1.5em;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
 }
 nav li h1{
-    cursor:pointer;
+    cursor: pointer;
+    margin-left: 20px;
+    font-family: arial, sans-serif;
+    font-weight: 900;
+    color: #fff;
 }
 nav li h1:hover{
     color: blue;
