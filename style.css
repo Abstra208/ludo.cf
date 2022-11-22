@@ -16,7 +16,6 @@ nav li a{
 }
 nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
-    font-weight: 700;
 }
 
 /*Page*/
