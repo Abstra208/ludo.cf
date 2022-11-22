@@ -16,8 +16,7 @@ nav li h1:hover{
 
 /*Page*/
 #page{
-    display: flex;
-    justify-content: center;
+    background-color: rgba(182, 182, 182, 0.308);
 }
 #page article{
     height: 250px;
