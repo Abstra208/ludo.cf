@@ -1,4 +1,7 @@
 /*Navigation*/
+nav a{
+    cursor: pointer;
+}
 #row{
     background-color: #000;
     display: flex;
