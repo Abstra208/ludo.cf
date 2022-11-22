@@ -14,7 +14,7 @@ nav li a{
     color: #fff;
     
 }
-nav li h1:hover{
+nav li a:hover{
     color: blue;
 }
 
