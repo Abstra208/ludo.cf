@@ -38,11 +38,6 @@ nav:has(a:hover) > a:not(:hover){
     height: 550px;
     width: auto;
 }
-#page article h1{
-    display: flex;
-    justify-content: center;
-    align-self: center;
-}
 
 /*Accueil*/
 .home #projet{
@@ -58,6 +53,11 @@ nav:has(a:hover) > a:not(:hover){
 }
 .projet #moi{
     display: none;
+}
+.projet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /*À Propos de Moi*/
