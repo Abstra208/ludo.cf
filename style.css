@@ -22,7 +22,7 @@ nav a{
 #row a{
     margin-left: 20px;
     font-family: arial, sans-serif;
-    font-weight: 900;
+    font-weight: 1500;
     color: #fff;
 }
 nav:has(a:hover) > a:not(:hover){
