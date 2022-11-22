@@ -37,14 +37,11 @@ nav:has(a:hover) > a:not(:hover){
 #page article{
     height: 550px;
     width: auto;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
 }
 #page article h1{
     display: flex;
     justify-content: center;
-    align-self: baseline;
+    align-self: center;
 }
 
 /*Accueil*/
