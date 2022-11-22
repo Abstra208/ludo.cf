@@ -23,6 +23,11 @@ nav li h1:hover{
     width: auto;
     background-color: darkgreen;
 }
+#page article h1{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
 
 /*Accueil*/
 .home #projet{
