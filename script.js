@@ -1,6 +1,6 @@
 home.onclick = () => document.page.class="home";
 moi.onclick = () => document.page.class="moi";
-
+projet.onclick = () => document.page.class="projet";
 
 
 
