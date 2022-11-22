@@ -1,5 +1,5 @@
 
 
-document.getElementByclassName("home-c").onclick = () => document.getElementById("page").className="home";
-document.getElementsByClassName("moi-c").onclick = () => document.getElementById("page").className="moi";
-document.getElementsByClassName("projet-c").onclick = () => document.getElementById("page").className="projet";
+document.getElementById("home").onclick = () => document.getElementById("page").className="home";
+document.getElementById("moi").onclick = () => document.getElementById("page").className="moi";
+document.getElementById("projet").onclick = () => document.getElementById("page").className="projet";
