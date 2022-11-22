@@ -21,7 +21,8 @@ nav li h1:hover{
 }
 #page article{
     height: 250px;
-    background-color: coral;
+    width: 100%;
+    background-image: url("img/");
 }
 
 /*Accueil*/
