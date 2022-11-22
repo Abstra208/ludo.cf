@@ -26,7 +26,7 @@ nav li h1:hover{
 #page article h1{
     display: flex;
     justify-content: center;
-    align-self: baseline;
+    align-content: baseline;
 }
 
 /*Accueil*/
