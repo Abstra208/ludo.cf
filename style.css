@@ -14,7 +14,7 @@ nav li a{
     color: #fff;
     
 }
-nav:has(a:hover) > a:not(:hover){
+nav li:has(a:hover) > a:not(:hover){
     opacity: 0.4;
 }
 
