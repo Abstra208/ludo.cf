@@ -1,22 +1,23 @@
 /*Navigation*/
-#column{
+#row{
     background-color: #000;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 30px;
 }
-#row{
-    flex-direction: row;
+#column{
+    display: flex;
+    flex-direction: column;
     justify-content: center;
 }
-#column a{
+#row a{
     margin-left: 20px;
     font-family: arial, sans-serif;
     font-weight: 900;
     color: #fff;
 }
-#column:has(a:hover) > a:not(:hover){
+nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
     font-weight: 500;
 }
