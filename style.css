@@ -52,6 +52,7 @@ nav:has(a:hover) > a:not(:hover){
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-left: 20px;
 }
 
 /*Mes Projets*/
