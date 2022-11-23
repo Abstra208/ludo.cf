@@ -1,9 +1,12 @@
+body{
+    background-color: rgb(131, 127, 127);
+}
+
 /*Navigation*/
 nav a{
     cursor: pointer;
 }
 #row{
-    background-color: #000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,9 +36,6 @@ nav:has(a:hover) > a:not(:hover){
 }
 
 /*Page*/
-#page{
-    background-color: rgba(182, 182, 182, 0.582);
-}
 #page article{
     height: 550px;
     width: auto;
