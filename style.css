@@ -108,6 +108,8 @@ nav:has(a:hover) > a:not(:hover){
 @media all and (max-width: 950px){
     #row{
         flex-direction: column;
+    }
+    #row a{
         font-size: smaller;
     }
 }
