@@ -23,6 +23,7 @@ nav a{
 #logo{
     margin-left: 30px;
     font-size: 2em;
+    position: fixed;
 }
 #row{
     margin-left: 110px;
