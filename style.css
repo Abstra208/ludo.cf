@@ -22,7 +22,7 @@ nav a{
 }
 #logo{
     margin-left: 30px;
-    font-weight: 1000;
+    font-size: 1em;
 }
 #row{
     margin-left: 100px;
@@ -38,13 +38,13 @@ nav a{
 }
 #row a{
     margin-left: 50px;
-    font-weight: 900;
+    font-weight: 500;
     font-size: large;
     color: #fff;
 }
 nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
-    font-weight: 500;
+    font-weight: 150;
 }
 
 /*Page*/
