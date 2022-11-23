@@ -48,6 +48,11 @@ nav:has(a:hover) > a:not(:hover){
 .home #moi{
     display: none;
 }
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 /*Mes Projets*/
 .projet #home{
@@ -68,4 +73,9 @@ nav:has(a:hover) > a:not(:hover){
 }
 .moi #projet{
     display: none;
+}
+.moi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
