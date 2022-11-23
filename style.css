@@ -12,13 +12,6 @@ nav a{
 }
 #nav{
     display: flex;
-}
-#logo{
-    align-self: center;
-}
-#row{
-    display: flex;
-    justify-content: center;
     align-items: center;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -26,6 +19,9 @@ nav a{
     position: absolute;
     top: 0;
     left: 0;
+}
+#row{
+    justify-content: center;
 }
 #column{
     display: flex;
