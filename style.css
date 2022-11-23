@@ -19,10 +19,9 @@ nav a{
     position: absolute;
     top: 0;
     left: 0;
-    justify-content: center;
 }
 #logo{
-    float: left 10px;
+    padding-left: 30px;
 }
 #row{
     justify-content: center;
