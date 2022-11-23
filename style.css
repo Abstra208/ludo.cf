@@ -34,9 +34,8 @@ nav a{
 nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
 }
-#projet{
+#home{
     padding-left: 30px;
-    padding-right: 5px;
 }
 
 /*Page*/
