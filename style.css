@@ -45,23 +45,23 @@ nav:has(a:hover) > a:not(:hover){
 }
 
 /*Accueil*/
-.home #projet{
+.home #projet_page{
     display: none;
 }
-.home #moi{
+.home #moi_page{
     display: none;
 }
 .home{
     display: flex;
-
+    justify-content: center;
     align-items: center;
 }
 
 /*Mes Projets*/
-.projet #home{
+.projet #home_page{
     display: none;
 }
-.projet #moi{
+.projet #moi_page{
     display: none;
 }
 .projet{
@@ -71,10 +71,10 @@ nav:has(a:hover) > a:not(:hover){
 }
 
 /*À Propos de Moi*/
-.moi #home{
+.moi #home_page{
     display: none;
 }
-.moi #projet{
+.moi #projet_page{
     display: none;
 }
 .moi{
