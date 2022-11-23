@@ -34,6 +34,9 @@ nav a{
 nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
 }
+#projet{
+    justify-self: center;
+}
 
 /*Page*/
 #page article{
