@@ -109,6 +109,6 @@ nav:has(a:hover) > a:not(:hover){
         display: none;
     }
     #column{
-        display: block;
+        display: flex;
     }
 }
