@@ -111,5 +111,6 @@ nav:has(a:hover) > a:not(:hover){
     }
     #row a{
         font-size: smaller;
+        flex-direction: column;
     }
 }
