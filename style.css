@@ -91,3 +91,10 @@ nav:has(a:hover) > a:not(:hover){
     justify-content: center;
     align-items: center;
 }
+
+/*Screen size*/
+@media all and (max-width: 950px){
+    #row{
+        display: none;
+    }
+}
