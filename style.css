@@ -12,7 +12,9 @@ nav a{
 }
 #nav{
     display: flex;
-    align-items: center;
+}
+#logo{
+    align-self: center;
 }
 #row{
     display: flex;
