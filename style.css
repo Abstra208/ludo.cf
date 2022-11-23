@@ -35,7 +35,7 @@ nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
 }
 #home{
-    padding-left: 30px;
+    padding-left: 25px;
 }
 
 /*Page*/
