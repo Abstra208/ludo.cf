@@ -10,6 +10,10 @@ nav a{
     cursor: pointer;
     font-family: 'Rubik Distressed', cursive;
 }
+#nav{
+    display: flex;
+    align-items: center;
+}
 #row{
     display: flex;
     justify-content: center;
@@ -27,6 +31,7 @@ nav a{
     align-items: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    color: #fff;
 }
 #row a{
     margin-left: 50px;
