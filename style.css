@@ -37,6 +37,7 @@ nav a{
     position: fixed;
     font-family: "Storm Gust";
     float: left;
+    cursor: pointer;
 }
 #column{
     display: flex;
@@ -107,5 +108,8 @@ nav:has(a:hover) > a:not(:hover){
 @media all and (max-width: 950px){
     #row{
         flex-direction: column;
+    }
+    #row a{
+        font-size: smaller;
     }
 }
