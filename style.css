@@ -35,7 +35,8 @@ nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
 }
 #projet{
-    justify-self: center;
+    padding-left: 20px;
+    padding-right: 10px;
 }
 
 /*Page*/
