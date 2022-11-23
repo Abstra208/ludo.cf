@@ -8,6 +8,7 @@ body{
 /*Navigation*/
 nav a{
     cursor: pointer;
+    font-family: 'Rubik Distressed', cursive;
 }
 #row{
     display: flex;
@@ -29,7 +30,6 @@ nav a{
 }
 #row a{
     margin-left: 50px;
-    font-family: 'Rubik Distressed', cursive;
     font-weight: 900;
     font-size: large;
     color: #fff;
