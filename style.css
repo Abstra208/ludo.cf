@@ -36,6 +36,7 @@ nav a{
     font-size: 2em;
     position: fixed;
     font-family: "Storm Gust";
+    justify-self: flex-start;
 }
 #column{
     display: flex;
