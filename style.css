@@ -19,6 +19,7 @@ body{
 nav a{
     cursor: pointer;
     font-family: 'Rubik Distressed', cursive;
+    justify-content: center;
 }
 #nav{
     display: flex;
@@ -44,7 +45,6 @@ nav a{
     padding-top: 10px;
     padding-bottom: 10px;
     color: #fff;
-    float: center;
 }
 #row a{
     margin-left: 50px;
