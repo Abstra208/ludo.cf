@@ -19,7 +19,6 @@ body{
 nav a{
     cursor: pointer;
     font-family: 'Rubik Distressed', cursive;
-    justify-content: center;
 }
 #nav{
     display: flex;
