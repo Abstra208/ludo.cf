@@ -47,7 +47,7 @@ nav a{
     color: #fff;
     display: none;
 }
-#row{
+.row{
     justify-self: center;
 }
 #row a{
