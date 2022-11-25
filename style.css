@@ -24,6 +24,7 @@ nav a{
 #nav{
     display: flex;
     align-items: center;
+    justify-content: center;
     padding-top: 30px;
     padding-bottom: 30px;
     width: 100%;
@@ -31,7 +32,7 @@ nav a{
     top: 0;
     left: 0;
 }
-#logo{
+.logo{
     margin-left: 30px;
     font-size: 2em;
     position: fixed;
