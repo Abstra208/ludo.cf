@@ -20,7 +20,7 @@ nav a{
     cursor: pointer;
     font-family: 'Rubik Distressed', cursive;
 }
-#nav{
+header{
     display: flex;
     align-items: center;
     padding-top: 30px;
