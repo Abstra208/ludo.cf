@@ -48,7 +48,7 @@ nav a{
     display: none;
 }
 #row{
-    justify-content: center;
+    justify-self: center;
 }
 #row a{
     margin-left: 50px;
