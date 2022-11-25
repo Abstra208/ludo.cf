@@ -56,12 +56,9 @@ header{
     font-size: large;
     color: #fff;
 }
-/*nav:has(a:hover) > a:not(:hover){
+nav:has(a:hover) > a:not(:hover){
     opacity: 0.4;
     font-size: medium;
-}*/
-nav a:has:hover > nav a{
-    opacity: 0.4;
 }
 
 /*Page*/
