@@ -23,7 +23,6 @@ nav a{
 #nav{
     display: flex;
     align-items: center;
-    justify-content: center;
     padding-top: 30px;
     padding-bottom: 30px;
     width: 100%;
@@ -47,6 +46,9 @@ nav a{
     padding-bottom: 10px;
     color: #fff;
     display: none;
+}
+#row{
+    justify-content: center;
 }
 #row a{
     margin-left: 50px;
