@@ -47,7 +47,7 @@ nav a{
     color: #fff;
     display: none;
 }
-.row{
+#nav .row{
     display: flex;
     justify-self: center;
 }
