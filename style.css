@@ -48,6 +48,7 @@ nav a{
     display: none;
 }
 .row{
+    display: flex;
     justify-self: center;
 }
 .row a{
