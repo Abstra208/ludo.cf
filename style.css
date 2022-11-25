@@ -60,7 +60,7 @@ header{
     opacity: 0.4;
     font-size: medium;
 }*/
-nav a:hover > nav a{
+nav a:has:hover > nav a{
     opacity: 0.4;
 }
 
