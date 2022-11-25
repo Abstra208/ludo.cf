@@ -50,7 +50,7 @@ nav a{
 .row{
     justify-self: center;
 }
-#row a{
+.row a{
     margin-left: 50px;
     font-weight: 500;
     font-size: large;
