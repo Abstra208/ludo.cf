@@ -34,9 +34,7 @@ header{
 .logo{
     margin-left: 30px;
     font-size: 2em;
-    position: fixed;
     font-family: "Storm Gust";
-    float: left;
     cursor: pointer;
 }
 #column{
