@@ -110,6 +110,7 @@ nav:has(a:hover) > a:not(:hover){
 @media all and (max-width: 750px){
     header{
         height: 100px;
+        align-items: center;
     }
     .row{
         flex-direction: column;
