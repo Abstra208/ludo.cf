@@ -109,6 +109,7 @@ nav:has(a:hover) > a:not(:hover){
 /*Screen size*/
 @media all and (max-width: 750px){
     .row{
+        display: flex;
         flex-direction: column;
     }
 }
